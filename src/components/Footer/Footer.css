@@ -1,0 +1,29 @@
+.container-footer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.item-footer {
+    flex: 0 0 20%;
+}
+
+.item-footer>ul {
+    list-style: none;
+}
+
+.a-title {
+    color: #959595;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.title {
+    color: black;
+    font-size: 15px;
+    margin-bottom: 20px;
+}

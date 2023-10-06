@@ -1,0 +1,35 @@
+.nav-bar {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-top: solid 1px #ebebeb;
+}
+
+.container {
+    max-width: 1140px;
+}
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.item_big {
+    display: flex;
+    list-style: none;
+}
+
+.a-img {
+    display: block;
+    font-size: 14px;
+    text-align: left;
+    font-weight: 300px;
+    color: #333;
+    padding: 0px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.a-active {
+    color: #0089ff;
+}

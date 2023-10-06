@@ -1,0 +1,35 @@
+.img-card {
+
+    max-width: 255px;
+    max-height: 255px;
+}
+
+.price {
+    color: red;
+    margin-top: 5px;
+}
+
+.a-btn {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.container-button {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 255px;
+}
+
+.btnchoies {
+    padding: 20px;
+    margin-left: 15px;
+}
+
+.title {
+    margin-top: 5px
+}
+
+.container-card {
+    flex: 0 0 20%;
+}

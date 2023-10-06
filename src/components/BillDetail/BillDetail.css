@@ -1,0 +1,85 @@
+.bill-detail-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.container-billdetail {
+    display: flex;
+    justify-content: center;
+}
+
+.bill-deltail-item {
+    flex: 0 0 30%;
+}
+
+.item-detail {
+    border-left: #717171 solid 1px;
+    padding-left: 2%;
+}
+
+.bill-detail-product {
+    margin: 15px 0px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #717171;
+    border-bottom: 1px solid #717171;
+}
+
+.bill-detail-product-title {
+    flex: 0 0 30%;
+    padding-left: 2%;
+}
+
+.detail-input {
+    border-radius: 4px;
+    width: 200px;
+    height: 44px;
+    margin-right: 5px;
+}
+
+.btn-detail {
+    width: 80px;
+    padding: 5%;
+    text-align: center;
+    height: 44px;
+}
+
+.detail-price {
+    font-size: 20px;
+    color: #717171;
+}
+
+.container-price {
+    border-top: 1px solid #717171;
+    border-bottom: 1px solid #717171;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.detail-money {
+    color: #2a9dcc;
+}
+
+.detail-money-nav {
+    text-decoration: none;
+    color: #2a9dcc;
+
+}
+
+.detail-money-btn {
+    border-radius: 5px;
+    border-color: #2f71a9;
+    background-color: #357ebd;
+    padding: .5em 1em;
+    text-align: center;
+
+}
+
+.detail-money-btn>a {
+    text-decoration: none;
+    color: #fff;
+
+}
